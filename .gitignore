@@ -1,0 +1,5 @@
+model/*.safetensors
+model/*.bin
+__pycache__/
+model/**/*.safetensors
+model/**/*.bin

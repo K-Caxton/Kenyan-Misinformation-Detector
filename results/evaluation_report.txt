@@ -1,0 +1,15 @@
+              precision    recall  f1-score   support
+
+     neutral     0.7615    0.6348    0.6924      1766
+        fact     0.5460    0.6351    0.5872       729
+        fake     0.3471    0.4803    0.4029       456
+
+    accuracy                         0.6110      2951
+   macro avg     0.5515    0.5834    0.5608      2951
+weighted avg     0.6443    0.6110    0.6217      2951
+
+
+Confusion Matrix:
+[[1121  322  323]
+ [ 177  463   89]
+ [ 174   63  219]]

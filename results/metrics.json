@@ -1,0 +1,23 @@
+{
+  "model_name": "Davlan/afro-xlmr-base",
+  "test_accuracy": 0.610979329041003,
+  "test_macro_f1": 0.5608458229032709,
+  "test_weighted_f1": 0.6216834134596877,
+  "confusion_matrix": [
+    [
+      1121,
+      322,
+      323
+    ],
+    [
+      177,
+      463,
+      89
+    ],
+    [
+      174,
+      63,
+      219
+    ]
+  ]
+}
