@@ -2,10 +2,6 @@
 
 An AI-powered NLP system fine-tuned on **`Davlan/afro-xlmr-base`** to detect political misinformation in Kenyan social media posts written in **Kiswahili, Sheng, and English**.
 
-## Group Members
-* **Justus Onyango** — 191948
-* **Caxton Kiptoo** — 180657
-* **Paul Gitungo** — 190093
 
 ## Problem & Motivation
 Political misinformation spreads rapidly across Kenyan platforms like X (Twitter) and WhatsApp during major political events. Most existing fact-checking models only understand standard English and struggle with Kenyan code-switching, Sheng slang, and Kiswahili morphology. This system classifies posts into three categories:
